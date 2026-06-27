@@ -1,0 +1,28 @@
+a, h1, p{
+    color: white;
+    font-family: "JetBrains Mono", monospace;
+}
+a{
+    text-decoration: none;
+    font-size: 2rem;
+    padding: 1.5rem;
+}
+.Home{
+    padding-right: 5rem;
+    margin-right: 65rem;
+}
+.bar{
+    background-color: black;
+}
+body{
+    background: gray;
+}
+h1{
+    font-size: 4rem;
+}
+p{
+    font-size: 1.5rem;
+}
+.burger{
+    height: 3rem;
+}
